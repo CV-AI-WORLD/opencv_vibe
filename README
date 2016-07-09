@@ -1,2 +1,6 @@
 # opencv_vibe
 基于opencv的Mat的前景检测Vibe算法的实现
+该代码是基于下面三篇文章：
+《 ViBe: a powerful random technique to estimate the background in video sequences》
+《Background Subtraction: Experiments and Improvements for ViBe. 》
+《ViBe: A universal background subtraction algorithm for video sequences》
